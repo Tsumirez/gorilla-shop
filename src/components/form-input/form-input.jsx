@@ -1,4 +1,4 @@
-import React, { useDebugValue } from "react";
+import React from "react";
 import "./form-input.styles.scss";
 
 const FormInput = ({ handleChange, label, ...otherProps }) => (
